@@ -18,4 +18,18 @@ LeetCode
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Arrays/ValidSudoku.java)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Arrays/SingleNumber.java)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Arrays/IntersectionTwoArraysII.java)|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Strings/ReverseString.java)|Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Strings/ReverseInteger.java)|Easy|
+|387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Strings/FirstUniqueCharacter.java)|Easy|
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Strings/ValidAnagram.java)|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Strings/ValidPalindrome.java)|Easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Strings/Atoi.java)|Medium|
+|28|[Implement strStr](https://leetcode.com/problems/implement-strstr/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Strings/mplementstrStr.java)|Easy|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Strings/CountAndSay.java)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Strings/LongestCommonPrefix.java)|Easy|
+
+
+
+
+
 
