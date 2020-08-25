@@ -1,0 +1,32 @@
+package LinkedList;
+
+public class MergeTwoSortedLists {
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        if(l1==null) return l2;
+        if(l2==null) return l1;
+
+        ListNode l3= new ListNode();
+        ListNode dummyHead= l3;
+
+        while (l1!=null && l2!=null){
+            if(l1.val<l2.val) {
+                dummyHead.next=l1;
+                l1 = l1.next;
+            }
+            else {
+                dummyHead.next = l2;
+                l2=l2.next;
+            }
+            dummyHead= dummyHead.next;
+        }
+
+        if(l1==null)
+            dummyHead.next=l2;
+
+        else
+            dummyHead.next=l1;
+
+        return l3.next;
+
+    }
+}
