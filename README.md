@@ -27,6 +27,23 @@ LeetCode
 |28|[Implement strStr](https://leetcode.com/problems/implement-strstr/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Strings/mplementstrStr.java)|Easy|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Strings/CountAndSay.java)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Strings/LongestCommonPrefix.java)|Easy|
+|1474|[Delete Node in a Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/LinkedList/DeleteNode.java)|Easy|
+|19|[Remove Nth Node From End of List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/603/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/LinkedList/RemoveNthNode.java)|Medium|
+|206|[Reverse Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/LinkedList/ReverseLinkedList.java)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/771/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/LinkedList/MergeTwoSortedLists.java)|Easy|
+|234|[Palindrome Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/772/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/LinkedList/PalindromeLinkedList.java)|Easy|
+|141|[Linked List Cycle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/773/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/LinkedList/LinkedListCycle.java)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Trees/MaximumDepthOfBinaryTree.java)|Easy|
+|98|[Validate Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/625/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Trees/ValidateBinarySearchTree.java)|Medium|
+|101|[Symmetric Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/627/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Trees/SymmetricTree.java)|Easy|
+|107|[Binary Tree Level Order Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/628/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Trees/BinaryTreeLevelOrderTraversal.java)|Easy|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/631/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Trees/ConvertSortedArrayBinarySearchTree.java)|Easy|
+|88|[Merge Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/SortingAndSearching/MergeSortedArray.java)|Easy|
+|278|[First Bad Version](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/SortingAndSearching/FirstBadVersion.java)|Easy|
+
+
+
+
 
 
 
