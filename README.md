@@ -41,6 +41,18 @@ LeetCode
 |88|[Merge Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/SortingAndSearching/MergeSortedArray.java)|Easy|
 |278|[First Bad Version](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/SortingAndSearching/FirstBadVersion.java)|Easy|
 
+|412|[Fizz Buzz](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Math/FizzBuzz.java)|Easy|
+|204|[Count Primes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/744/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Math/CountPrimes.java)|Easy|
+|326|[Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Math/PowerThree.java)|Easy|
+|13|[Roman to Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/878/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Math/RomanToInteger.java)|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/565/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Others/Number1Bits.java)|Easy|
+|461|[Hamming Distance](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/762/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Others/HammingDistance.java)|Easy|
+|190|[Reverse Bits](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/648/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Others/ReverseBits.java)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/601/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Others/PascalsTriangle.java)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/721/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Others/ValidParentheses.java)|Easy|
+|268|[Missing Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/722/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Others/MissingNumber.java)|Easy|
+
+
 
 
 
