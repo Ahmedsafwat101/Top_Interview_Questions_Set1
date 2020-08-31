@@ -40,7 +40,6 @@ LeetCode
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/631/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Trees/ConvertSortedArrayBinarySearchTree.java)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/SortingAndSearching/MergeSortedArray.java)|Easy|
 |278|[First Bad Version](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/SortingAndSearching/FirstBadVersion.java)|Easy|
-
 |412|[Fizz Buzz](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Math/FizzBuzz.java)|Easy|
 |204|[Count Primes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/744/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Math/CountPrimes.java)|Easy|
 |326|[Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Math/PowerThree.java)|Easy|
