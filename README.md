@@ -50,6 +50,9 @@ LeetCode
 |118|[Pascal's Triangle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/601/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Others/PascalsTriangle.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/721/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Others/ValidParentheses.java)|Easy|
 |268|[Missing Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/722/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Others/MissingNumber.java)|Easy|
+|384|[Shuffle an Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/670/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Design/ShuffleArray.java)|Medium|
+|155|[Min Stack](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/562/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Design/MinStack.java)|Medium|
+
 
 
 
