@@ -52,6 +52,10 @@ LeetCode
 |268|[Missing Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/722/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Others/MissingNumber.java)|Easy|
 |384|[Shuffle an Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/670/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Design/ShuffleArray.java)|Medium|
 |155|[Min Stack](https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/562/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/Design/MinStack.java)|Medium|
+|155|[Climbing Stairs](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/DynamicProgramming/ClimbingStairs.java)|Easy|
+|155|[Best Time to Buy and Sell Stock](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/572/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/DynamicProgramming/BestTimeToBuySellStock.java)|Easy|
+|155|[Maximum Subarray](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/566/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/DynamicProgramming/MaxSubArray.java)|Easy|
+|155|[House Robber](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/)| [java](https://github.com/Ahmedsafwat101/Top_Interview_Questions_Set1/blob/master/DynamicProgramming/HouseRobber.java)|Easy|
 
 
 
